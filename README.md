@@ -28,4 +28,13 @@ pip install pandas
 pip install matplotlib
 pip install sklearn
 pip install seaborn
+```
+
+## Contributions and Feedback
+Feedback and contributions are always welcome! Please feel free to fork the repo, open an issue, or send a pull request.
+
+## License
+This work is licensed under the MIT License.
+
+
 
